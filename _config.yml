@@ -1,44 +1,31 @@
 
 course: "CS190J"
-legacy_wiki_name: 8wiki
-legacy_wiki_url:  
-qtr: "W18"
-quarter: "Winter 2018"
+qtr: "S18"
+quarter: "Spring 2018"
 ta_list: ""
 ta_list_full: ""
-instructor: "Conrad and Mirza"
-piazza: https://piazza.com/class/jcdqu3kt8l9276
+instructor: "Mirza,Conrad,Wang"
+piazza: https://piazza.com/class/tbd
 
-github_url: https://github.com/ucsb-cs190j-w18/ucsb-cs190j-w18.github.io
-course_site:
-
-on_campus: http://proquest.safaribooksonline.com
-off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
-
-
-
-legacy_wiki_url: https://foo.cs.ucsb.edu/8wiki
-legacy_wiki_name: "8wiki"
+github_url: https://github.com/ucsb-cs190j-s18/ucsb-cs190j-s18.github.io
+course_site: https://ucsb-cs190j-s18.github.io
 
 
 start_week: 1
-start_date: 2018-01-14 00:00:00.00-8:00
-num_weeks: 9
+start_date: 2018-04-01 00:00:00.00-7:00
+num_weeks: 10
 extra_exam_week: true
 
-instructor_url: https://ucsb-cs16.github.io/instructor
 
 cal_dates: >
   [
-  {"label":"First day of classes", "date":"2018-01-16" },
-  {"label":"Last day to Add","date":"2018-01-22" },
-  {"label":"Last day to Add with code","date":"2018-02-05" },
-  {"label":"Drop Deadline (no W grade)","date":"2017-02-12" },
-  {"label":"Univ Holiday: Martin Luther King Day", "date":"2018-01-15" },
-  {"label":"Univ Holiday: Presidents Day", "date":"2018-02-19" },
-  {"label":"Last day of classes", "date":"2018-03-16" },            
+  {"label":"First day of Spring Quarter", "date":"2018-04-02" },
+  {"label":"Univ Holiday", "date":"2018-05-28" },
+  {"label":"Last day of instruction", "date":"2018-06-08" },
+  {"label":"Finals Begin", "date":"2018-06-09" },
+  {"label":"Finals End", "date":"2018-06-09" },
+  {"label":"Last day to drop (11pm)", "date":"2018-04-27" },	
   ]
-
 
 
 
