@@ -5,11 +5,9 @@ ready: true
 date: 2018-04-05 9:30:00.00-8:00
 ---
 
-
 # About the course
 * What is the goal of 190J?
 * Why are we not teaching you *how* to teach?
-* Why do we ask the entire staff to attend?
 
 # Graded components
 * Tutoring for your specific course (40%) 
