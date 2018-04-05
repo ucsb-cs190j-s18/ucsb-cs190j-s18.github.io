@@ -128,10 +128,12 @@ As a CS16/24 mentor, your duties include:
 
 # Mentoring in the context of CMPSC 32
 
-TBD: See RICHERT.  Likely similar to the responsibilities described above for CMPSC 8/16/24 but adapted to the context of CS32 (This is the first time mentors have been used in CS32, so there will be some on-the-fly adjustement needed to determine how best to use them in the course.)
+CS 32 will dive deeper into the topics covered in CS 16 and 24. The main emphasis will be on object oriented design, additional C++ features, and basic operating systems concepts. There will be weekly homework and lab assignments in the course where students may seek help from CS 32 mentors.
 
+CS 32 mentors are expected to:
 
-
-
-
-
+1. Prepare for each lab assignment before your lab section
+2. Attend lab sections and assist TAs in helping students with their lab work
+3. Hold open lab hours where you can provide personal attention to students who seek additional assistance
+4. Browse Piazza and help answer questions posted by students
+5. Attend weekly mentor meetings to provide your observations and feedback on students' experience and struggles
