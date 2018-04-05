@@ -2,7 +2,7 @@
 num: "Lecture 1"
 desc: "Orientation to the course(Diba)"
 ready: true
-date: 2018-01-18 9:30:00.00-8:00
+date: 2018-04-05 9:30:00.00-8:00
 ---
 
 
