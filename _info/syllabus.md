@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 190J, Winter 2018"
+title: "Syllabus, CMPSC 190J, Spring 2018"
 layout: handout
 ready: false
 ---
@@ -7,20 +7,20 @@ ready: false
 Basic Facts
 -----------
 
-* **Course Web Site**: <http://ucsb-cs190j-w18.github.io>
+* **Course Web Site**: <http://ucsb-cs190j-s18.github.io>
 * **Instructors**: Phill Conrad, Diba Mirza, Richert Wang
 
 * **Lecture**: R 9:30-10:45am HFH 1132, ATTENDANCE REQUIRED.
 * **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned.   The actual time might not correspond to the one listed on GOLD.   The time will be some combination of service during your courses discussion sections, and/or service during open labs hours.   The open lab hours are shared across the four courses.
 
-| Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Open Lab Times |
+| Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Weekly Meeting |
 |----------|----------------|--------------------|------------------|-------------------------------------------------|-|
-| CMPSC 8  | 3 | Richert Wang   | Wed 9am - 11:50am  | Wed 9am-12:50pm  | Mon 1-8pm, Thu noon-1:30pm, Fri 1-5pm |               |
-| CMPSC 16 | 6 | Diba Mirza     | Tues 9am - 11:50am | Tue 9am-12:50pm  | Mon 1-8pm, Fri 1-5pm |
-| CMPSC 24 | 5 | Diba Mirza     | Mon 9am - 11:50am  | Mon 9am-12:50pm  | Mon 5-8, Thu noon-3pm, Fri 1-5pm |
-| CMPSC 56 | 4 | Phill Conrad   | Thu 4pm - 6:50pm   | Thu 4pm-6:50pm   | Mon 1-8pm, Thu noon-3pm, Fri 1-5pm |
+| CMPSC 8  | 3 | Phill Conrad    | Mon 9am - 11:50am  | Mon 8am-11:50am  | TBD: Ask PHILL |
+| CMPSC 16 | 6 | Diba Mirza     | Tue 1pm - 03:50am | Tue 11am-2:50pm  |  Tue 3pm (DIBA: CHECK THIS) |
+| CMPSC 24 | 5 | Diba Mirza     | Tue 2pm - 4:50pm  | Tue 3pm-6:50pm  | Tue 2pm (DIBA: CHECK THIS) |
+| CMPSC 32 | 4 | Richert Wang  | Wed 4pm - 6:50pm   | Wed Noon-3:50pm   | TBD: Ask RICHERT |
 
-The three instructors and the 18 students in the course should coordinate their scheduled open labs times so as to ensure that there is coverage across the courses, and that the lab does not become overcrowded.
+The three instructors and the students in the course should coordinate their scheduled open labs times so as to ensure that there is coverage across the courses, and that the lab does not become overcrowded.
 
 About this course
 ---------------------------------
@@ -127,26 +127,10 @@ As a CS16/24 mentor, your duties include:
 * [Week 4 feedback and mid quarter report for CS16](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS16-weekly-guideline.md)
 * [Week 4 feedback and mid quarter report for CS24](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS24-weekly-guideline.md)
 
-# Mentoring in the context of CMPSC 56 
+# Mentoring in the context of CMPSC 32
 
-Each CS56 mentor will be typically assigned to 4 pairs of students (8 students) that will be their "team".  They will also be associated with a team of fellow mentors under the supervision of a lead.  The lead will be either a TA, or an experience mentor assisted by a Reader.  (Only TAs and Readers have final grading responsibilties.)
+TBD: See RICHERT.  Likely similar to the responsibilities described above for CMPSC 8/16/24 but adapted to the context of CS32 (This is the first time mentors have been used in CS32, so there will be some on-the-fly adjustement needed to determine how best to use them in the course.)
 
-The chief duties of CS56 mentors are:
-
-1. Curation of six legacy project repos.  
-    * This involves getting the repos ready for students to work on them.  Details [here](https://ucsb-cs56-pconrad-mentors.github.io/topics/curation_quick_checklist/) and [here](https://ucsb-cs56-pconrad-mentors.github.io/topics/curation_start_of_course/)
-    * Anticipated schedule: two by Thursday of week 2, two more by Monday of week 3, two more by Monday of week 4.
-2.  Going through labs before class (when available) to help uncover possible problem areas.
-3.  Helping students with labs during discussion sections and open labs hours
-4.  Providing code review of certain specific labs, legacy code project issues
-5.  General guidance of the legacy code project process, meaning helping to guide the design of the software towards good practices, and helping students manage the issues, pull requests, etc.
-6.  Serving as role models and sources of information and inspiration for the students in the course
-7.  Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon.
-
-More information on mentor responsibilities for CS56 can be found at these links:
-
-* <https://ucsb-cs56-pconrad-mentors.github.io/topics/CS56_mentor_overview/>
-* <https://ucsb-cs56-pconrad-mentors.github.io/>
 
 
 
