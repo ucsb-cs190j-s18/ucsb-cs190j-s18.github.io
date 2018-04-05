@@ -41,7 +41,7 @@ Students who successfully complete this course will earn 4 units towards their m
 Course grades will be calculated as follows.
 
 * 40%: Tutoring performance in your assigned course
-* 40%: Two projects (20% each)
+* 40%: Two projects (20% each) (one-on-one observations, end of term project)
 * 20%: Homework assignments (average of plenary, and course specific)
 
 ## Tutoring performance specific to your course
@@ -117,13 +117,12 @@ As a CS16/24 mentor, your duties include:
 2. Interacting one-on-one with students in section and open lab hours to assist with programming. Your role is to identify gaps in student understanding and help develop key faculties and techniques needed for programming. In your interactions you should strive to be supportive and non-judgemental. 
 3. Tracking the progress of approximately 10 students in your mentor group and setting up a time to meet with them on a regular basis
 4. Providing feedback on student code (for your mentees only)
-5. Writing biweekly reports to communicate overall progress to your mentees. You are highly encouraged maintain logs on each student which will help you create these reports. 
+5. Writing reports to communicate overall progress to your mentees. You are highly encouraged maintain logs on each student which will help you create these reports. 
 6. Reflect on your tutoring style and adjusting it to better suite your audience (your mentees).
 7. Assist the TAs with study sessions prior to exams
 8. Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon
 
 
-* [Instructions on creating feedback repos for your mentees](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md)
 * [Week 4 feedback and mid quarter report for CS16](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS16-weekly-guideline.md)
 * [Week 4 feedback and mid quarter report for CS24](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS24-weekly-guideline.md)
 
