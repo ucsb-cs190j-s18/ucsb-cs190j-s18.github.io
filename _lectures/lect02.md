@@ -20,7 +20,4 @@ For CS190J students only. (Optional for others)
    * If you go further afield than that, please check in with your supervising instructor; send them a link to the paper in the Digital Library.  (The "ACM Ref") is a good way to cite it.
 * Please submit your work by uploading to Gauchospace.  Preferred format is link to Google Drive document; acceptable alternative is uploading a PDF.
 
-# Diba: Some basic teaching tips
 
-* [Link to slides](https://docs.google.com/presentation/d/1phS_35lrzxeVeRiRgs37cc4FrbZiBDO28TP_F3f7uUE/edit?usp=sharing)
-* [Link to original slides and other excellent material from CS Teaching Tips](http://csteachingtips.org/)
