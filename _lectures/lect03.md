@@ -13,7 +13,7 @@ date: 2018-04-19 9:30:00.00-8:00
 [Link to pdf](/lectures/ic01.pdf){:data-ajax=false}
   * Why discussion style lectures vs traditional lectures?
   * What are the broad themes that the author McKeachie talks about?
-  * Barriers to discussion? 
-  * What are some strategies to promote discussion?
-  * Summary
+  * What are the barriers to discussion? 
+  * What are some strategies suggested by the author to promote discussion?
+  * Summarize your takeaways
 
