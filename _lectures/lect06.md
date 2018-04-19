@@ -1,8 +1,8 @@
 ---
 num: "Lecture 6"
-desc: "Diba: Assisting students on Programming Assignments (Richert and Phill are at SIGCSE)"
+desc: "Diba: Assisting students on Programming Assignments"
 ready: false
-date: 2018-02-22 9:30:00.00-8:00
+date: 2018-05-10 9:30:00.00-8:00
 ---
 
 
