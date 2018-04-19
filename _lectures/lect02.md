@@ -1,6 +1,6 @@
 ---
 num: "Lecture 2"
-desc: "CS Ed Research topics for HW1 (Phill)"
+desc: "CS Ed Research topics for HW1 (Diba), Game about revealing implicit bias (Phill)"
 ready: true
 date: 2018-04-12 9:30:00.00-8:00
 ---
