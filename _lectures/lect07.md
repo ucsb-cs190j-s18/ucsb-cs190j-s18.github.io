@@ -2,7 +2,7 @@
 num: "Lecture 7"
 desc: "CS Ed Research Lightning Talks"
 ready: true
-date: 2018-03-01 9:30:00.00-8:00
+date: 2018-05-17 9:30:00.00-8:00
 ---
 
 * Review requirements for final report (Phill)
