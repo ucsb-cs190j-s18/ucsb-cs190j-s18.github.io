@@ -2,7 +2,7 @@
 num: "Lecture 4"
 desc: "Practice with 1-1 explanations (Phill)"
 ready: false
-date: 2018-02-08 9:30:00.00-8:00
+date: 2018-04-26 9:30:00.00-8:00
 ---
 
 Assign Project 01 (one-on-one teaching observation)
