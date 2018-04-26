@@ -32,10 +32,26 @@ Practicing 1-on-1 explanations
 * Why do I need to compile my code everytime?
 * What is the difference between .h and .cpp files
 
+# Techniques for promoting discussion
+
+* Get on the same page: Ask: Ahat is the goal?
+* Start with a common experience or an analogy
+* Rephrase the question (specially if the question is unclear)
+* Start by asking a question to contexualize their question
+* Ask the student a question during your explanation, phrase your question as "How does the idea that ______ apply to ______ ?
+* Ask the student a question during your explanation, phrase your question as "How does the idea that _______ apply to ______ ?
+* 
+* Ask the student 
+
+
+
 The two main goals for this session are:
-* practice explaining concepts clearly and concisely
-* explore important elements of your interaction with the student 
-(there are many dimensions to this, we will explore how to engage with students and promote discussion using a few techniques)
+* practice explaining concepts in different ways
+* explore important elements of one-on-one interaction with student 
+(we will specifically focus on how to engage with students and promote discussion using a few techniques)
+
+
+
 
 To practice, we will play a game with flash cards
 * Break into small groups
