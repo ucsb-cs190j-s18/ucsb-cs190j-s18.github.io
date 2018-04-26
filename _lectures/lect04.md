@@ -40,8 +40,13 @@ Practicing 1-on-1 explanations
 * Start by asking a question to contexualize their question
 * Ask the student a question during your explanation, phrase your question as "How does the idea that ______ apply to ______ ?
 * Ask the student a question during your explanation, phrase your question as "How does the idea that _______ apply to ______ ?
-* 
-* Ask the student 
+* Ask the student to describe their problem using a diagram
+* Visualize the problem for the student on the whiteboard
+* Express your own curiosity - say "what if ....", wonder
+* Start your explanation with an example problem
+* Ask a question to clarify the problem
+
+
 
 
 
