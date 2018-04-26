@@ -34,20 +34,19 @@ Practicing 1-on-1 explanations
 
 # Tips for promoting discussion
 
-* Get on the same page: Ask: Ahat is the goal?
-* Start with a common experience or an analogy
+* Get on the same page: Ask: What is the goal?
+* Start with a common experience or analogy
 * Rephrase the question (specially if the question is unclear)
-* Start by asking a question to contexualize their question
+* Start by asking a question to contexualize the question
 * Ask the student a question during your explanation, phrase your question as "How does the idea that ______ apply to ______ ?
-* Ask the student a question during your explanation, phrase your question as "How does the idea that _______ apply to ______ ?
 * Ask the student to describe their problem using a diagram
 * Visualize the problem for the student on the whiteboard
 * Express your own curiosity - say "what if ....", wonder
 * Start your explanation with an example problem
 * Ask a question to clarify the problem
-* Reduce the embarrassment of giving a wrong answer: Ask general questions such as "How do you feel about this?" or "How does this look to you?
-* Be sensitive to confusion - pause if you feel the student is lost and allow the student to speak
-* Build on the other's response to increase their motivation rather than correct or reprimand.
+* Ask a general question during your explanation, such as "How do you feel about this?" or "How does this look to you?
+* Be sensitive to confusion - pause if you feel the student is lost 
+* Build on the other's response to increase their motivation
 
 
 The two main goals for this session are:
