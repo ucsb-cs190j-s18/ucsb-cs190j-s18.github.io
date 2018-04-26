@@ -37,7 +37,10 @@ The two main goals for this session are:
 * explore important elements of your interaction with the student 
 (there are many dimensions to this, we will explore how to engage with students and promote discussion using a few techniques)
 
-To practice, we will play a game with flash cards in two rounds
+To practice, we will play a game with flash cards
 * Break into small groups
-* Players select a concept from the flashcards, and each take turn explaining the same concept to the rest of the group - the goal is to be concise and clear. Each player should try to have have a different while improving on the explanations heard so far.
+* Select a concept from the flashcards
+* Individuals take turn explaining the same concept to the rest of the group - the goal is to be concise, clear, and improve on the explanations heard so far, while trying different variations.
+* Play a few rounds until the group is fluent in explaining the concepts on the flash cards
+
 
