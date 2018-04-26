@@ -37,7 +37,7 @@ Practicing 1-on-1 explanations
 * Get on the same page: Ask: What is the goal?
 * Start with a common experience or analogy
 * Rephrase the question (specially if the question is unclear)
-* Start by asking a question to contexualize the question
+* Start by asking a question to contextualize the question
 * Ask the student a question during your explanation, phrase your question as "How does the idea that ______ apply to ______ ?
 * Ask the student to describe their problem using a diagram
 * Visualize the problem for the student on the whiteboard
