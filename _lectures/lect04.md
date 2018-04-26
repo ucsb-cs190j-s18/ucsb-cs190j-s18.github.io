@@ -28,9 +28,16 @@ Practicing 1-on-1 explanations
 * Explain the use of . vs ->
 * Re-explain reference vs de-referencing (& vs * ) and different use cases
 * How can I access a private member variable in a member function? Don't I need to declare it?
+* Why would a function be void?
+* Why do I need to compile my code everytime?
+* What is the difference between .h and .cpp files
 
 The two main goals for this session are:
 * practice explaining concepts clearly and concisely
 * explore important elements of your interaction with the student 
 (there are many dimensions to this, we will explore how to engage with students and promote discussion using a few techniques)
+
+To practice, we will play a game with flash cards in two rounds
+* Break into small groups
+* Players select a concept from the flashcards, and each take turn explaining the same concept to the rest of the group - the goal is to be concise and clear. Each player should try to have have a different while improving on the explanations heard so far.
 
