@@ -1,6 +1,6 @@
 ---
 num: "Lecture 5"
-desc: "Diba: Assisting students on Programming Assignments"
+desc: "Assisting students on Programming Assignments (Diba)"
 ready: true
 date: 2018-05-10 9:30:00.00-8:00
 ---
