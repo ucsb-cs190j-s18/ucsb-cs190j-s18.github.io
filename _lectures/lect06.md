@@ -7,7 +7,8 @@ date: 2018-05-12 9:30:00.00-8:00
 
 # Preparing for lightning talks
 
-Prepare a 5 minute talk about the research paper that you read as part of h01. You may prepare slides for your presentation although it is not necessary
+Prepare a 5 minute talk about the research paper that you read and summarized in h01. 
+
 ## Group 1: Talk on 05/17
 
 1. BERG	MATTHEW OLIVER
