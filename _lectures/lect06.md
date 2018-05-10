@@ -34,6 +34,9 @@ We will then have a follow up discussion on this week's reading: [Twelve tips fo
 
 
 # Assisting students in contextualized discussions
+We will do a variation of one of the past activities which was explaining concepts using flashcards. This is activity will be done in small groups and between pairs who assume the role of (student - tutor). The student will pick a flashcard that has a technical question. In addition, the student will also pick a "context" card that gives some background about them and a desciption of what they really want to talk about as descibed in [this list](https://docs.google.com/document/d/1smEAOB8nIBjseuIFdg1UER0tT8wOiKPrJemfk6use-0/edit?usp=sharing).
+
+The student will only ask the tutor the technical question. The tutor should ask appropriate questions to figure out what the student really wants to talk about.
 
 
 
