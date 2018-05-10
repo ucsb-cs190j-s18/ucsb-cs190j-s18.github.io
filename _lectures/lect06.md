@@ -10,17 +10,17 @@ date: 2018-05-12 9:30:00.00-8:00
 Prepare a 5 minute talk about the research paper that you read as part of h01. You may prepare slides for your presentation although it is not necessary
 ## Group 1: Talk on 05/17
 
-BERG	MATTHEW OLIVER
-GAUT	ANDREW JOSEPH
-LONG	KEITH JAMES
-YU	YIFAN
+1. BERG	MATTHEW OLIVER
+2. GAUT	ANDREW JOSEPH
+3. LONG	KEITH JAMES
+4. YU	YIFAN
 
 ## Group 2: Talk on 05/24
 
-SEGUNDO	DIEGO TOMAS
-VIDICAN	PATRICK ALEXANDRU
-ZHANG	ANDREW
-ZHANG	ANNAN
+1. SEGUNDO	DIEGO TOMAS
+2. VIDICAN	PATRICK ALEXANDRU
+3. ZHANG	ANDREW
+4. ZHANG	ANNAN
 
 # Improving the climate in our classes
 
