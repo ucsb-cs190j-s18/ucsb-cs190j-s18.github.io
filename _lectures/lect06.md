@@ -26,8 +26,9 @@ Prepare a 5 minute talk about the research paper that you read and summarized in
 # Improving the climate in our classes
 
 We will watch two videos by Colleen Lewis:
-* [encouraging students to seek help](https://www.youtube.com/watch?v=J91iM8naM4o&index=8&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT) 
-* [tips for reducing bias](https://www.youtube.com/watch?v=f0KF3BBt1IY&index=1&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT)
+* [encouraging students to seek help by Colleen Lewis](https://www.youtube.com/watch?v=J91iM8naM4o&index=8&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT) 
+* [growth mindset by Carol Dweck](https://www.youtube.com/watch?v=isHM1rEd3GE)
+* [tips for reducing bias by Colleen Lewis](https://www.youtube.com/watch?v=f0KF3BBt1IY&index=1&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT)
 
 We will then have a follow up discussion on this week's reading: [Twelve tips for creating a culture that supports all students in computing](https://inroads.acm.org/article.cfm?aid=3148524)
 
