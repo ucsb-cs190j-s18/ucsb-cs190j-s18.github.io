@@ -33,7 +33,7 @@ We will watch two videos by Colleen Lewis:
 We will then have a follow up discussion on this week's reading: [Twelve tips for creating a culture that supports all students in computing](https://inroads.acm.org/article.cfm?aid=3148524)
 
 
-# Assisting students through contextualized discussions
+# Assisting students in contextualized discussions
 
 
 
