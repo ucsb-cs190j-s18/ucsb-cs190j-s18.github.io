@@ -1,6 +1,6 @@
 ---
 num: "Lecture 6"
-desc: "Assisting students through contextualized discussions"
+desc: "Creating a welcoming climate for all students"
 ready: false
 date: 2018-05-12 9:30:00.00-8:00
 ---
@@ -31,7 +31,7 @@ We will watch two videos by Colleen Lewis:
 We will then have a follow up discussion on this week's reading: [Twelve tips for creating a culture that supports all students in computing](https://inroads.acm.org/article.cfm?aid=3148524)
 
 
-
+# Assisting students through contextualized discussions
 
 
 
