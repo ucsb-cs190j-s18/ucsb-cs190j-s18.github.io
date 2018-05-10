@@ -1,6 +1,6 @@
 ---
 num: "Lecture 6"
-desc: "Creating a welcoming climate for all students"
+desc: "Creating a climate that supports the learning of all students"
 ready: false
 date: 2018-05-12 9:30:00.00-8:00
 ---
@@ -23,7 +23,7 @@ Prepare a 5 minute talk about the research paper that you read and summarized in
 3. ZHANG	ANDREW
 4. ZHANG	ANNAN
 
-# Improving the climate in our classes
+# Creating a climate that supports the learning of all students
 
 We will watch two videos by Colleen Lewis:
 * [encouraging students to seek help by Colleen Lewis](https://www.youtube.com/watch?v=J91iM8naM4o&index=8&list=PLHqz-wcqDQIEMMuXadwy90YxN2Qb4SrXT) 
