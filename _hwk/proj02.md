@@ -1,9 +1,9 @@
 ---
 num: "proj02"
 desc: "Final report"
-ready: false 
-assigned: 2018-01-18 15:30:00.00-8:00
-due: 2018-03-16 17:00:00.00-8:00
+ready: true 
+assigned: 2018-05-17 15:30:00.00-8:00
+due: 2018-06-07 17:00:00.00-8:00
 ---
 
 <b>Final report: To get feedback on your report, bring an early draft to instructor's office hours (or make an appointment to discuss your draft with your supervising instructor.) </b>
