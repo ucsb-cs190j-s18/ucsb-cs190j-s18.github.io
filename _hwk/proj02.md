@@ -14,7 +14,7 @@ due: 2018-06-07 17:00:00.00-8:00
 </li>
 </ol>
 
-(1) Teaching: One-on-tutoring with students in lab sections, specific strategies you used that worked well. Identify your strengths and areas for improvement
+(1) Teaching: This is a reflection on your one-on-tutoring with students in lab sections, highlight specific strategies you used that worked well. Identify your strengths and areas for improvement. Tell us about strategies from the CS190J plenary sessions that you applied to your tutoring, what worked well and where you would have liked to get more guidance
 
 
 (2) Research: Articles and papers read related to CS Education and key learning outcomes from your reading
