@@ -49,7 +49,7 @@ Course grades will be calculated as follows.
 As a tutor, you are a role model to the students in the class. Therefore, your conduct should reflect the values that we would like to instill in our students. With this philosphy in mind, we expect you to be:
 
 * Responsive: As a tutor you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion
-* Reliabile: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
+* Reliable: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
 * Proactive and engaged: Observe the students in your lab sections and offer to assist them proactively. You must appear "available" to students during your hours and not immersed in your devices.
 * Prepared: Read the lab instructions carefully before appearing for your sections, read the lecture slides
 * Helpful: Demonstrate and understanding of what it means to be helpful as a tutor. Say I don't know but seek help from the TA or instructor to make sure that the student received the help they need.
@@ -103,7 +103,7 @@ They will be of two types:
 
 CMPSC 8 is usually the first CS course that students take at UCSB. The mentors in CMPSC 8 will assist students with different levels of programming experience understand concepts that are foundational to CS and gain study habits and skills that will help them succeed in future CS courses. Mentors are central to creating a supportive learning environment and helping students engage with the material.  
 
-The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, hold office hours to assist students and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
+The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, and hold office hours to assist students. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
 
 # Mentoring in the context of CMPSC 16/24
 
@@ -120,7 +120,6 @@ As a CS16/24 mentor, your duties include:
 5. Writing reports to communicate overall progress to your mentees. You are highly encouraged maintain logs on each student which will help you create these reports. 
 6. Reflect on your tutoring style and adjusting it to better suite your audience (your mentees).
 7. Assist the TAs with study sessions prior to exams
-8. Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon
 
 
 * [Week 4 feedback and mid quarter report for CS16](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS16-weekly-guideline.md)
